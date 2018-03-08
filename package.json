@@ -1,0 +1,20 @@
+{
+  "name": "nord-wave",
+  "displayName": "Nord Wave",
+  "description": "Darker version of the awesome Nord theme",
+  "version": "0.0.1",
+  "publisher": "dnlytras",
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Wave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nord Wave-color-theme.json"
+      }
+    ]
+  }
+}
