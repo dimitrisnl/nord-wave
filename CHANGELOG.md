@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 
-* Make compatible with olrder VS Code versions, down to 1.14
+* Make compatible with older VS Code versions, down to 1.14
 
 ### Added
 
