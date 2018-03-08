@@ -2,7 +2,7 @@
     "name": "nord-wave",
     "displayName": "Nord Wave",
     "description": "Darker version of the awesome Nord theme",
-    "version": "0.3.1",
+    "version": "0.3.3",
     "publisher": "dnlytras",
     "author": "Dimitrios Lytras <dnlytras@gmail.com>",
     "repository": "https://github.com/DimitrisNL/nord-wave",
@@ -12,7 +12,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "assets/icon.png",
+    "icon": "assets/icon2.png",
     "keywords": [
         "arctic",
         "dark",
