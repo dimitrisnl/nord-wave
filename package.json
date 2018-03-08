@@ -4,6 +4,8 @@
   "description": "Darker version of the awesome Nord theme",
   "version": "0.0.1",
   "publisher": "dnlytras",
+  "author": "Dimitrios Lytras <dnlytras@gmail.com>",
+  "repository": "https://github.com/DimitrisNL/nord-wave",
   "engines": {
     "vscode": "^1.21.0"
   },
