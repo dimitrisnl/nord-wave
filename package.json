@@ -10,6 +10,8 @@
     "vscode": "^1.21.0"
   },
   "categories": ["Themes"],
+  "icon": "assets/icon.png",
+  "keywords": ["arctic", "dark", "bluish", "penato"],
   "contributes": {
     "themes": [
       {

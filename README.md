@@ -4,4 +4,4 @@ A darker approach for the awesome [Nord theme](https://github.com/arcticicestudi
 
 ### Screenshot
 
-![screenshot](screens/demo.png)
+![screenshot](assets/demo.png)
